@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/": {},
+    "/category": {},
+    "/dashboard": {},
+    "/home": {},
+    "/product": {},
+    "/user": {}
+  }
+}

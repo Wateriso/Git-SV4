@@ -1,0 +1,5 @@
+.carousel-indicators {
+  list-style: none;     /* remove numbers */
+  margin: 0;
+  padding: 0;
+}
